@@ -13,6 +13,15 @@ Google features for the **Xiaomi HyperOS 4 China ROM** — a fork of [Coogle](ht
 - Experimental: lock screen shortcuts, control center Lens tile, double-press power → Google Wallet
 - UI languages: Türkçe, English, Русский, Español, 简体中文
 
+Every feature can be toggled on its own.
+
+## Specs
+- Size: app ~3.2 MB, companion module ~0.45 MB
+- RAM: no extra cost (the Google assistant process uses ~90 MB, as on any Android phone)
+- Battery: ~0 with Hey Google off; roughly 5–10% per full charge with it on (software detection)
+- Companion module auto-updates in your root manager; uninstalling it restores your key settings
+- HyperOS one-key clean no longer kills the Google assistant
+
 ## Requirements
 - Xiaomi HyperOS 4 China ROM (Android 17), tested on Xiaomi 15 Ultra
 - KernelSU / SukiSU, LSPosed (API 102), Google app
