@@ -18,7 +18,6 @@ Every feature can be toggled on its own.
 ## Specs
 - Size: app ~3.2 MB, companion module ~0.45 MB
 - RAM: no extra cost (the Google assistant process uses ~90 MB, as on any Android phone)
-- Battery: ~0 with Hey Google off; roughly 5–10% per full charge with it on (software detection)
 - Companion module auto-updates in your root manager; uninstalling it restores your key settings
 - HyperOS one-key clean no longer kills the Google assistant
 
