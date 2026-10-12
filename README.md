@@ -35,7 +35,8 @@ Hey Google and Android Auto need the companion module. Turn on Hey Google in XGo
 
 ## Source code and support
 - Source: https://github.com/Leekin2/XGoogle (GPL-3.0)
-- Telegram: https://t.me/xioamifetiscisi
+- Telegram channel: https://t.me/xioamifetiscisi
+- Feedback and suggestions: [@emcleek](https://t.me/emcleek)
 
 Credits: [@zopulus](https://github.com/zopulus), [@MiToverG422](https://github.com/MiToverG422), [@luckyzyx](https://github.com/luckyzyx), [@tiann](https://github.com/tiann), [@LuckyPray](https://github.com/LuckyPray).
 Not affiliated with Google or Xiaomi.
