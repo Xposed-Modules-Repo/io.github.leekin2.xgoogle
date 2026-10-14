@@ -10,13 +10,15 @@ Google features for the **Xiaomi HyperOS 4 China ROM** — a fork of [Coogle](ht
 - Google Lens
 - Android Auto (system app and car projection role, via the companion module)
 - Removes the GMS China restriction (Quick Share included)
-- Experimental: lock screen shortcuts, control center Lens tile, double-press power → Google Wallet
+- Experimental: lock screen shortcuts, control center Lens tile, double-press power → Google Wallet, Lens button in the camera
+- Two looks: Material, or HyperOS style (light/dark/system theme, wallpaper colors, frosted bar)
+- Status card that lists the apps still unticked in LSPosed; restart apps without rebooting; update check
 - UI languages: Türkçe, English, Русский, Español, 简体中文
 
 Every feature can be toggled on its own.
 
 ## Specs
-- Size: app ~3.2 MB, companion module ~0.45 MB
+- Size: app ~4 MB, companion module ~0.45 MB
 - RAM: no extra cost (the Google assistant process uses ~90 MB, as on any Android phone)
 - Companion module auto-updates in your root manager; uninstalling it restores your key settings
 - HyperOS one-key clean no longer kills the Google assistant
@@ -26,7 +28,7 @@ Every feature can be toggled on its own.
 - KernelSU / SukiSU, LSPosed (API 102), Google app
 
 ## Scopes
-System Framework, System UI, Settings, Google, XiaoAi (`com.miui.voiceassist`), Always-on display (`com.miui.aod`).
+System Framework, System UI, Settings, Google, XiaoAi (`com.miui.voiceassist`), Always-on display (`com.miui.aod`), Security (`com.miui.securitycore`), Google Wallet. Camera is optional (Lens button).
 Do not uninstall XiaoAi: the navigation handle reaches Circle to Search through it.
 
 ## Companion module
@@ -35,6 +37,7 @@ Hey Google and Android Auto need the companion module. Turn on Hey Google in XGo
 ## Source code and support
 - Source: https://github.com/Leekin2/XGoogle (GPL-3.0)
 - Feedback and complaints on Telegram: [@emcleek](https://t.me/emcleek)
+- Support group: [Xgoogle for HyperOS](https://t.me/Xgooogle)
 
-Credits: [@zopulus](https://github.com/zopulus), [@MiToverG422](https://github.com/MiToverG422), [@luckyzyx](https://github.com/luckyzyx), [@tiann](https://github.com/tiann), [@LuckyPray](https://github.com/LuckyPray).
+Credits: [@zopulus](https://github.com/zopulus), [@MiToverG422](https://github.com/MiToverG422), [@luckyzyx](https://github.com/luckyzyx), [@tiann](https://github.com/tiann), [@LuckyPray](https://github.com/LuckyPray), [Miuix](https://github.com/compose-miuix-ui/miuix).
 Not affiliated with Google or Xiaomi.
