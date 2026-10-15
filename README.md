@@ -28,8 +28,8 @@ Every feature can be toggled on its own.
 - KernelSU / SukiSU, LSPosed (API 102), Google app
 
 ## Scopes
-System Framework, System UI, Settings, Google, XiaoAi (`com.miui.voiceassist`), Always-on display (`com.miui.aod`), Security (`com.miui.securitycore`), Google Wallet. Camera is optional (Lens button).
-Do not uninstall XiaoAi: the navigation handle reaches Circle to Search through it.
+System Framework, System UI, Settings, Google, Always-on display (`com.miui.aod`), Security (`com.miui.securitycore`), Google Wallet. Camera is optional (Lens button).
+XiaoAi (`com.miui.voiceassist`) is no longer needed: XGoogle opens Circle to Search from the navigation handle in the system itself, so you can uninstall XiaoAi. If you keep it, leave it ticked: it stays as a fallback.
 
 ## Companion module
 Hey Google, Circle to Search from the navigation handle, live translate and Android Auto need the companion module. XGoogle offers to install it (and to update it when it is out of date), or download it from [GitHub releases](https://github.com/Leekin2/XGoogle/releases).
