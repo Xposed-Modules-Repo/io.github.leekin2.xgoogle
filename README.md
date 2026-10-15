@@ -4,15 +4,15 @@ Google features for the **Xiaomi HyperOS 4 China ROM** — a fork of [Coogle](ht
 
 ## Features
 - Long-press power → Gemini / Google Assistant
-- Long-press the navigation handle → Circle to Search
+- Long-press the navigation handle → Circle to Search (needs the companion module; with 3-button navigation, long-press Home)
 - "Hey Google" voice activation (needs the companion module)
-- Circle to Search live translate (keeps translating as you scroll)
+- Circle to Search live translate (keeps translating as you scroll; needs the companion module)
 - Google Lens
 - Android Auto (system app and car projection role, via the companion module)
-- Removes the GMS China restriction (Quick Share included)
+- Removes the GMS China restriction (Quick Share included, with its control center tile)
 - Experimental: lock screen shortcuts, control center Lens tile, double-press power → Google Wallet, Lens button in the camera
 - Two looks: Material, or HyperOS style (light/dark/system theme, wallpaper colors, frosted bar)
-- Status card that lists the apps still unticked in LSPosed; restart apps without rebooting; update check
+- Status card that lists the apps still unticked in LSPosed and tells you when the companion module needs an update; restart apps without rebooting; update check
 - UI languages: Türkçe, English, Русский, Español, 简体中文
 
 Every feature can be toggled on its own.
@@ -32,7 +32,7 @@ System Framework, System UI, Settings, Google, XiaoAi (`com.miui.voiceassist`), 
 Do not uninstall XiaoAi: the navigation handle reaches Circle to Search through it.
 
 ## Companion module
-Hey Google and Android Auto need the companion module. Turn on Hey Google in XGoogle to install it, or download it from [GitHub releases](https://github.com/Leekin2/XGoogle/releases).
+Hey Google, Circle to Search from the navigation handle, live translate and Android Auto need the companion module. XGoogle offers to install it (and to update it when it is out of date), or download it from [GitHub releases](https://github.com/Leekin2/XGoogle/releases).
 
 ## Source code and support
 - Source: https://github.com/Leekin2/XGoogle (GPL-3.0)
