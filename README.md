@@ -1,6 +1,6 @@
 # XGoogle
 
-Google features for the **Xiaomi HyperOS 4 China ROM** — a fork of [Coogle](https://github.com/zopulus/coogle) by [@zopulus](https://github.com/zopulus), ported from ColorOS to HyperOS.
+Google features for the **Xiaomi HyperOS 4 China ROM**.
 
 ## Features
 - Long-press power → Gemini / Google Assistant
