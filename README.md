@@ -3,7 +3,7 @@
 Google features for the **Xiaomi HyperOS 4 China ROM**.
 
 ## Features
-- Long-press power → Gemini / Google Assistant
+- Long-press power → Gemini / Google Assistant (switchable: keep XiaoAi instead)
 - Long-press the navigation handle → Circle to Search (needs the companion module; with 3-button navigation, long-press Home)
 - Swipe in from the side and hold → Circle to Search (needs XiaoAi, see Scopes)
 - Gestures are optional: for the handle hold, the side swipe-and-hold and the double tap, choose Circle to Search or XiaoAi
