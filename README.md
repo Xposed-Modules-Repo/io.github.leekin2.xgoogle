@@ -10,7 +10,7 @@ Google features for the **Xiaomi HyperOS 4 China ROM**.
 - "Hey Google" voice activation (needs the companion module)
 - Circle to Search live translate (keeps translating as you scroll; needs the companion module)
 - Google Lens
-- Android Auto (system app and car projection role, via the companion module)
+- Android Auto (privileged system app through Xiaomi's international stub, with the car projection role; via the companion module)
 - Removes the GMS China restriction (Quick Share included, with its control center tile; "View downloads" opens File Manager)
 - Optional: Google Maps Timeline, passkeys and password manager, unlimited Google Photos backup, choose camera folder backup in Google Photos
 - Restore from Google backup after a reset (China ROMs have no Google setup wizard; opens Android Switch)
