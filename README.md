@@ -14,6 +14,7 @@ Google features for the **Xiaomi HyperOS 4 China ROM**.
 - Removes the GMS China restriction (Quick Share included, with its control center tile; "View downloads" opens File Manager)
 - Optional: Google Maps Timeline, passkeys and password manager, unlimited Google Photos backup, choose camera folder backup in Google Photos
 - Restore from Google backup after a reset (China ROMs have no Google setup wizard; opens Android Switch)
+- After a reset the companion grants the Google apps their permissions, including HyperOS's own prompts (Hey Google stops asking)
 - Experimental: lock screen shortcuts, control center Lens and Circle to Search tiles, double-press power → Google Wallet, Lens button in the camera
 - Two looks: Material, or HyperOS style (light/dark/system theme, wallpaper colors, frosted bar)
 - Status card that lists the apps still unticked in LSPosed and tells you when the companion module needs an update; restart apps without rebooting; update check
