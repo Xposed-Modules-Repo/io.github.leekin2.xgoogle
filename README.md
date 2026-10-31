@@ -2,6 +2,11 @@
 
 Google features for the **Xiaomi HyperOS 4 China ROM**.
 
+> **XGoogle has moved to [XApps](https://github.com/Leekin2/XApps)** (io.github.leekin2.xapps): XGoogle, XSecurity and XNotify in one module. XGoogle gets no more updates.
+> Flash the **XApps zip** from the [latest release](https://github.com/Leekin2/XApps/releases/latest) in KernelSU / Magisk and restart fully: it installs XApps, sets up LSPosed, moves your XGoogle settings and removes XGoogle by itself. Do not install the XApps APK next to XGoogle.
+>
+> **XGoogle artık [XApps](https://github.com/Leekin2/XApps) içinde** ve güncellenmeyecek. XApps zip'ini root yöneticisinde kurup telefonu tamamen yeniden başlatın: ayarlarınızı taşır ve XGoogle'i kendisi kaldırır.
+
 ## Features
 - Long-press power → Gemini / Google Assistant (switchable: keep XiaoAi instead)
 - Long-press the navigation handle → Circle to Search (needs the companion module; with 3-button navigation, long-press Home)
